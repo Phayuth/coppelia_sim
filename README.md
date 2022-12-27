@@ -1,7 +1,7 @@
-# ROS2 with CoppeliaSim
+# CoppeliaSim
 This package contain a tutorial on coppelia simulation with ROS2 and some code that I learn.
 
-### Setup
+## ROS2 Setup
 1. Install ROS2
 2. Download CoppeliaSim Edu. version https://www.coppeliarobotics.com/downloads
 3. Extract CoppeliaSim to `home` directory
